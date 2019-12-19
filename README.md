@@ -1,5 +1,5 @@
 **CustomerData** 
-CustomerData project is a test Application to add customer in the table.  We are using below technologies:
+* CustomerData project is a test Application to add customer in the table.  We are using below technologies:
 
  **View:** 
  HTML5, Bootstrap, Ng2-Smart-Table 
