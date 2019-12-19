@@ -23,4 +23,8 @@ Sql Server, Table Name = dbo.Customer
 **Steps to Download the CustomerData Solution** 
 
 - Use this git to clone the project. https://github.com/shrikantpandeydotnet/CustomerData.git or you can download the zip file as well by going to the link Clone -> DonwloadZip. 
-- 
+- Build the solution. If you found any issue. It must be related to the package not installed. Install the package by using npm command.
+- Go to the UnitTest Document and Perform the steps to test the application. 
+
+**Note**
+There are some additional links created by Dotnet Core Angular and Web API project. I have not removed those additinal pages/link for test project but in real scenario we need to remove additional code and build application on top of that.
